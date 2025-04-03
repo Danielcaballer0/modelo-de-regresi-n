@@ -36,7 +36,7 @@ Este proyecto implementa un modelo de regresión lineal para predecir el precio 
 
 ## Despliegue con Binder
 Puedes ejecutar este proyecto en Binder sin necesidad de instalar nada:
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/danielcaballero3514%2Fhouse-price-prediction/HEAD)
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/danielcaballero3514%2Fhouse-price-prediction/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)
 
 ## Contribución
 Si deseas mejorar este proyecto:
