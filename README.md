@@ -13,7 +13,7 @@ Este proyecto implementa un modelo de regresión lineal para predecir el precio 
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://gitlab.com/danielcaballero3514/house-price-prediction.git
+   git clone https://github.com/Danielcaballer0/modelo-de-regresi-n.git
    cd house-price-prediction
    ```
 2. Crear un entorno virtual e instalar dependencias:
